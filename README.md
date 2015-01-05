@@ -30,3 +30,17 @@ Each character in Scrwl maxes out at two strokes. Characters can be combined to 
 Scrwl is open.
 ----
 Fork it, update it, argue your case, all that good stuff.
+
+Scrwl is easy.
+----
+
+##### Loops
+##### Conditionals
+##### Arrays & Hashes
+##### Functions
+##### Numbering
+
+Examples
+-----
+
+##### QuickSort
