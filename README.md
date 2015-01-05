@@ -43,4 +43,6 @@ Scrwl is easy.
 Examples
 -----
 
+##### Fibonacci
 ##### QuickSort
+##### Gale–Shapley
