@@ -35,10 +35,24 @@ Scrwl is easy.
 ----
 
 ##### Loops
+![Loop](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/loop.png)
+
 ##### Conditionals
+![Conditional](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/conditional.png)
+
 ##### Arrays & Hashes
+![Array](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/array.png)
+![Hash](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/hash.png)
+
 ##### Functions
+![Function](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/function.png)
+![Recursive](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/recursive.png)
+
 ##### Numbering
+![One](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/one.png)
+![Two](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/two.png)
+![Three](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/three.png)
+![Four](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/four.png)
 
 Examples
 -----
