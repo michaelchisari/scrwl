@@ -48,6 +48,7 @@ Scrwl is easy.
 ![Hash](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/hash.png)
 
 ##### Functions
+![Function](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/def.png)
 ![Function](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/function.png)
 ![Recursive](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/recursive.png)
 
