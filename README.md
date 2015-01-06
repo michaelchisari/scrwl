@@ -40,6 +40,9 @@ Scrwl is easy.
 ##### Conditionals
 ![Conditional](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/conditional.png)
 
+##### Executions
+![Execute](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/execute.png)
+
 ##### Arrays & Hashes
 ![Array](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/array.png)
 ![Hash](https://raw.githubusercontent.com/michaelchisari/scrwl/master/images/png/hash.png)
